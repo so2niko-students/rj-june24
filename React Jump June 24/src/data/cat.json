@@ -1,0 +1,11 @@
+{
+    "name": "Whiskers",
+    "breed": "Domestic Shorthair",
+    "age": 3,
+    "color": "gray",
+    "weight": 8.5,
+    "gender": "female",
+    "isNeutered": true,
+    "isVaccinated": true,
+    "personalityTraits": ["playful", "friendly", "curious"]
+}
